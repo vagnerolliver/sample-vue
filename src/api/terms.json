@@ -1,0 +1,15 @@
+{
+  "termsTest": [],
+  "terms": [
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 1
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 2
+    }
+  ]
+}
