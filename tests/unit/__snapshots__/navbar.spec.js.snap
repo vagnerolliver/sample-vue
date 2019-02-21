@@ -6,20 +6,24 @@ exports[`Component snapshot renders correctly 1`] = `
   class="navbar"
   role="navigation"
 >
-  <a
+  <router-link
     class="navbar-item"
+    tag="a"
+    to="/terms"
   >
     
-      My Page 1
+    Termos
   
-  </a>
+  </router-link>
    
-  <a
+  <router-link
     class="navbar-item"
+    tag="a"
+    to="/terms/list"
   >
     
-      My Page 3
+    Lista Termos
   
-  </a>
+  </router-link>
 </nav>
 `;

@@ -14,10 +14,12 @@ Vue.config.productionTip = false
 
 const router = new VueRouter({
   routes: [
-     { path: '/terms/list', component: TermsList },
-     { path: '/terms/', component: Terms }
+    {path: '/terms/list', component: TermsList},
+    {path: '/terms/', component: Terms},
+    {path: '/', component: Terms}
   ]
 })
+
 
 new Vue({
   router,

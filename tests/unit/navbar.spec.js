@@ -1,7 +1,6 @@
 import { mount } from '@vue/test-utils'
 import NavBar from '@/components/NavBar'
 
-
 describe('Component', () => {
   test('is a Vue instance', () => {
     const wrapper = mount(NavBar)
