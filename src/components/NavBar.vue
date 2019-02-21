@@ -4,7 +4,7 @@
         My Page 1
     </a>
     <a class="navbar-item">
-        My Page 2
+        My Page 3
     </a>
   </nav>
 </template>

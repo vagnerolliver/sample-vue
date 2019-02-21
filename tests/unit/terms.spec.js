@@ -1,6 +1,6 @@
-import { getTerms, getTerm, saveTerm, persistTerm } from "./";
+import { getTerms, getTerm, saveTerm, persistTerm } from "@/untils/index";
 
-describe('Crud Terms', () => {
+describe('Terms', () => {
 
   describe('should find by Terms', () => {
     test('Get term', () => {

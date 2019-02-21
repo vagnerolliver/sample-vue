@@ -10,6 +10,416 @@
       "name": "label.cancel",
       "value": "cancelar",
       "id": 2
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 3
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 4
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 5
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 6
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 7
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 8
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 9
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 10
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 11
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 12
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 13
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 14
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 15
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 16
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 17
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 18
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 19
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 20
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 21
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 22
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 23
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 24
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 25
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 26
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 27
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 28
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 29
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 30
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 31
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 32
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 33
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 34
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 35
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 36
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 37
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 38
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 39
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 40
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 41
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 42
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 43
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 44
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 45
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 46
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 47
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 48
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 49
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 50
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 51
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 52
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 53
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 54
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 55
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 56
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 57
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 58
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 59
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 60
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 61
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 62
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 63
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 64
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 65
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 66
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 67
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 68
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 69
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 70
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 71
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 72
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 73
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 74
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 75
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 76
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 77
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 78
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 79
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 80
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 81
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 82
+    },
+    {
+      "name": "label.cancel",
+      "value": "save and continue",
+      "id": 83
+    },
+    {
+      "name": "label.cancel",
+      "value": "cancelar",
+      "id": 84
     }
   ]
 }

@@ -4,7 +4,8 @@ import '../node_modules/bulma/bulma.sass'
 
 import VueRouter from 'vue-router'
 
-import HelloWorld from './pages/Terms'
+import Terms from './pages/Terms'
+import TermsList from './pages/ListTerms'
 
 Vue.use(VueRouter)
 
@@ -13,8 +14,8 @@ Vue.config.productionTip = false
 
 const router = new VueRouter({
   routes: [
-     { path: '/list/', component: HelloWorld },
-     { path: '/home/', component: HelloWorld }
+     { path: '/terms/list', component: TermsList },
+     { path: '/terms/', component: Terms }
   ]
 })
 

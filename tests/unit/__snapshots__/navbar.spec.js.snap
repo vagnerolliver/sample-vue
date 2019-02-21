@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component snapshot renders correctly 1`] = `
+<nav
+  aria-label="main navigation"
+  class="navbar"
+  role="navigation"
+>
+  <a
+    class="navbar-item"
+  >
+    
+      My Page 1
+  
+  </a>
+   
+  <a
+    class="navbar-item"
+  >
+    
+      My Page 3
+  
+  </a>
+</nav>
+`;

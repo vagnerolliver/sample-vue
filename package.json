@@ -6,7 +6,9 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "test:unit": "vue-cli-service test:unit"
+    "test:unit": "vue-cli-service test:unit",
+    "update-snapshot": "jest --updateSnapshot",
+    "json-server": "json-server --watch src/api/terms.json"
   },
   "dependencies": {
     "axios": "^0.18.0",
