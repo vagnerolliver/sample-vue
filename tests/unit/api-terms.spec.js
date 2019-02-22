@@ -1,6 +1,11 @@
-import { getTerms, getTerm, saveTerm, persistTerm } from "@/untils/crud";
+import { getTerms, getTerm, saveTerm, persistTerm, deleteTerm } from "@/untils/crud";
 
 describe('Component', () => {
+
+  afterEach(() => {
+    deleteTerm('1', 'termsTest')
+  });
+
   test('Get term', () => {
     return getTerms('termsTest')
       .then(response => {
@@ -29,7 +34,7 @@ describe('Component', () => {
       .then(response => {
         expect(typeof response).toEqual('object');
         expect(response.id).toEqual(newTerm.id)
-        expect(response.name).toEqual('label.cancel')
+        expect(response.name).toEqual('label_cancel')
         expect(response.value).toEqual('cancelar')
       })
   });

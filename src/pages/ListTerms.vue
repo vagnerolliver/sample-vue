@@ -8,7 +8,7 @@
       </tr>
       </thead>
       <tbody>
-        <tr v-for="(term, index) in terms">
+        <tr v-for="term in terms">
           <th>{{ term.name }}</th>
           <td>{{ term.value }}</td>
         </tr>

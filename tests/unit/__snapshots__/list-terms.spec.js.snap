@@ -21,27 +21,7 @@ exports[`Component snapshot renders correctly 1`] = `
       </tr>
     </thead>
      
-    <tbody>
-      <tr>
-        <th>
-          BOTAO_CANCELAR
-        </th>
-         
-        <td>
-          Cancelar
-        </td>
-      </tr>
-       
-      <tr>
-        <th>
-          BOTAO_DELETAR
-        </th>
-         
-        <td>
-          Deletar
-        </td>
-      </tr>
-    </tbody>
+    <tbody />
   </table>
 </div>
 `;

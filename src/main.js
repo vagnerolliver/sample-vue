@@ -11,12 +11,11 @@ Vue.use(VueRouter)
 
 Vue.config.productionTip = false
 
-
 const router = new VueRouter({
   routes: [
-    {path: '/terms/list', component: TermsList},
-    {path: '/terms/', component: Terms},
-    {path: '/', component: Terms}
+    {name: 'TermsList', path: '/list', component: TermsList},
+    {name: 'Terms', path: '/terms', component: Terms},
+    {path: '/', redirect: '/terms' }
   ]
 })
 
