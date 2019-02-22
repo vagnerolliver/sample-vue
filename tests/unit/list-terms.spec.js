@@ -1,7 +1,7 @@
 import ListTerms from '@/pages/ListTerms.vue'
 import {mount, shallowMount } from "@vue/test-utils";
 
-fdescribe('Component', () => {
+describe('Component', () => {
   test('is a Vue instance', () => {
     const wrapper = mount(ListTerms)
     expect(wrapper.isVueInstance()).toBeTruthy()

@@ -8,13 +8,9 @@
       </tr>
       </thead>
       <tbody>
-        <tr>
-          <th>BOTAO_CANCELAR</th>
-          <td>Cancelar</td>
-        </tr>
-        <tr>
-          <th>BOTAO_DELETAR</th>
-          <td>Deletar</td>
+        <tr v-for="(term, index) in terms">
+          <th>{{ term.name }}</th>
+          <td>{{ term.value }}</td>
         </tr>
       </tbody>
     </table>
@@ -22,17 +18,31 @@
 </template>
 
 <script>
+  import { getTerms } from "@/untils/crud";
+
   export default {
     name: 'ListTerms',
     data () {
       return {
         title: '',
-        description: ''
+        description: '',
+        terms: []
       }
     },
     created () {
       this.title = 'Título da minha pagina!'
       this.description = 'Minha descrição'
+    },
+    mounted () {
+      this.listTerms();
+    },
+    methods: {
+      listTerms: function() {
+        return getTerms('terms')
+          .then(response => {
+            this.terms = response
+          })
+      }
     }
   }
 </script>
