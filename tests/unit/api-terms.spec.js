@@ -32,7 +32,7 @@ describe('Component', () => {
       })
   });
 
-  test('should get terms', async () => {
+  test('should get modules', async () => {
     return getTerms('termsTest')
       .then(response => {
         expect(response[0].id).toEqual(newTerm.id)

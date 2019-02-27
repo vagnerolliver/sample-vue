@@ -18,32 +18,19 @@
 </template>
 
 <script>
-  import { getTerms } from "@/untils/crud";
+  // import { getTerms } from "@/untils/crud";
+  import { mapState, mapActions } from 'vuex'
 
   export default {
     name: 'ListTerms',
-    data () {
-      return {
-        title: '',
-        description: '',
-        terms: []
-      }
-    },
+    computed: mapState({
+      terms: state => state.terms.all
+    }),
     created () {
+      this.$store.dispatch('terms/getAllTerms')
       this.title = 'Título da minha pagina!'
       this.description = 'Minha descrição'
     },
-    mounted () {
-      this.listTerms();
-    },
-    methods: {
-      listTerms: function() {
-        return getTerms('terms')
-          .then(response => {
-            this.terms = response
-          })
-      }
-    }
   }
 </script>
 
