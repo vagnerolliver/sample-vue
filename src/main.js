@@ -15,8 +15,8 @@ Vue.config.productionTip = false
 const router = new VueRouter({
   routes: [
     {name: 'TermsList', path: '/list', component: TermsList},
-    {name: 'Terms', path: '/modules', component: Terms},
-    {path: '/', redirect: '/modules' }
+    {name: 'Terms', path: '/terms', component: Terms},
+    {path: '/', redirect: '/terms' }
   ]
 })
 

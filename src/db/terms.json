@@ -3,13 +3,18 @@
   "terms": [
     {
       "name": "label_cancel",
-      "value": "save and continue",
+      "value": "Save and Continue",
       "id": 1
     },
     {
       "name": "label_refreseh",
       "value": "Atualizar",
       "id": 2
+    },
+    {
+      "name": "label_edit",
+      "value": "Editar",
+      "id": 3
     }
   ]
 }

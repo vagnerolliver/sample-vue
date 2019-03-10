@@ -18,13 +18,12 @@
 </template>
 
 <script>
-  // import { getTerms } from "@/untils/crud";
   import { mapState, mapActions } from 'vuex'
 
   export default {
     name: 'ListTerms',
     computed: mapState({
-      terms: state => state.terms.all
+      terms: state => state.terms.data
     }),
     created () {
       this.$store.dispatch('terms/getAllTerms')

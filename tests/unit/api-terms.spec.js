@@ -1,6 +1,6 @@
 import { getTerm, getTerms, saveTerm, persistTerm, deleteTerm } from "@/untils/crud";
 
-describe('Component', () => {
+xdescribe('Component', () => {
   let newTerm;
 
   beforeEach( async () => {
@@ -19,7 +19,7 @@ describe('Component', () => {
     return persistTerm(params, 'termsTest')
       .then(response => {
         expect(response.value).toEqual('save and continue')
-       })
+      })
   });
 
   test('should get term by id', async () => {
@@ -32,7 +32,7 @@ describe('Component', () => {
       })
   });
 
-  test('should get modules', async () => {
+  test('should get terms', async () => {
     return getTerms('termsTest')
       .then(response => {
         expect(response[0].id).toEqual(newTerm.id)
